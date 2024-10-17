@@ -13,3 +13,11 @@
 **Thoughts:** it was normal
 
 **Link to work:** PHP course https://stepik.org/course/181092/
+
+### Day 2: 17.10.2024
+
+**Today's Progress**: i was trying a lot fix problem with my bluetooth headphones with Linux. I solve on 95%))) and studied some short lessons about command line Linux
+**Thoughts:** day was difficult
+
+**Link to work:** PHP course https://stepik.org/course/181092/
+
