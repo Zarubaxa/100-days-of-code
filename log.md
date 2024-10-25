@@ -28,4 +28,10 @@
 
 **Link to work:** PHP course https://stepik.org/course/181092/
 
+### Day 4: 24.10.2024
+
+**Today's Progress**: studied some short lessons about command line Linux
+**Thoughts:** normal
+
+**Link to work:** PHP course https://stepik.org/course/181092/
 
