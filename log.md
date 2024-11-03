@@ -49,3 +49,50 @@
 
 **Link to work:** PHP course https://stepik.org/course/181092/
 
+### Day 7: 27.10.2024
+
+**Today's Progress**: start PHP course by Lavrik
+**Thoughts:** good
+
+### Day 8: 28.10.2024
+
+**Today's Progress**: continue php course
+**Thoughts:** good
+
+### Day 9: 29.10.2024
+
+**Today's Progress**: continue php course
+**Thoughts:** good
+
+### Day 10: 30.10.2024
+
+**Today's Progress**: continue php course
+**Thoughts:** good
+
+### Day 11: 31.10.2024
+
+**Today's Progress**: continue php course
+**Thoughts:** good
+
+### Day 12: 01.11.2024
+
+**Today's Progress**: continue php course
+**Thoughts:** good
+
+### Day 13: 01.11.2024
+
+**Today's Progress**: continue php course
+**Thoughts:** good
+
+### Day 14: 02.11.2024
+
+**Today's Progress**: continue php course
+**Thoughts:** good
+
+### Day 15: 03.11.2024
+
+**Today's Progress**: finished lesson-1, did homework with *
+**Thoughts:** good
+
+**Link to work:** [PHP course by Lavrik](https://github.com/Zarubaxa/studyProjects/tree/752f15d524612c7d8b5f1814d3bfa66ee0060adb/lesson-1/homework)
+
