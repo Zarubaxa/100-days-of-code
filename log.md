@@ -94,5 +94,5 @@
 **Today's Progress**: finished lesson-1, did homework with *
 **Thoughts:** good
 
-**Link to work:** [PHP course by Lavrik](https://github.com/Zarubaxa/studyProjects/tree/752f15d524612c7d8b5f1814d3bfa66ee0060adb/lesson-1/homework)
+**Link to work:** https://github.com/Zarubaxa/studyProjects/tree/752f15d524612c7d8b5f1814d3bfa66ee0060adb/lesson-1/homework
 
