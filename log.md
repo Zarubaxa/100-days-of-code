@@ -96,3 +96,18 @@
 
 **Link to work:** https://github.com/Zarubaxa/studyProjects/tree/752f15d524612c7d8b5f1814d3bfa66ee0060adb/lesson-1/homework
 
+### Day 16: 04.11.2024
+
+**Today's Progress**: started php course on laracasts
+**Thoughts:** good
+
+### Day 17: 05.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 18: 06.11.2024
+
+**Today's Progress**: finished section one php course
+**Thoughts:** good
+
