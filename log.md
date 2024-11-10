@@ -111,3 +111,23 @@
 **Today's Progress**: finished section one php course
 **Thoughts:** good
 
+### Day 19: 07.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 20: 08.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 21: 09.11.2024
+
+**Today's Progress**: finished section one php course
+**Thoughts:** good
+
+### Day 22: 10.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
