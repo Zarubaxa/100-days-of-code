@@ -131,3 +131,18 @@
 **Today's Progress**: studying php course on laracasts
 **Thoughts:** good
 
+### Day 23: 11.11.2024
+
+**Today's Progress**: saw some lessons about Drupal
+**Thoughts:** good
+
+### Day 24: 12.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 25: 13.11.2024
+
+**Today's Progress**: saw some lessons about Drupal and some in Laracasts
+**Thoughts:** good
+
