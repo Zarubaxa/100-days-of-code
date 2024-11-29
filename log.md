@@ -170,3 +170,58 @@
 
 **Today's Progress**: studying php course on laracasts
 **Thoughts:** good
+
+### Day 31: 19.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 32: 20.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 33: 21.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 34: 22.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 35: 23.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 36: 24.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 37: 25.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 38: 26.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 39: 27.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
+
+### Day 40: 28.11.2024
+
+**Today's Progress**: studying php course on laracasts, made some easy tasks on codewars
+**Thoughts:** good
+
+### Day 41: 29.11.2024
+
+**Today's Progress**: studying php course on laracasts
+**Thoughts:** good
