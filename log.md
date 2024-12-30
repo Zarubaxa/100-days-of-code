@@ -225,3 +225,8 @@
 
 **Today's Progress**: studying php course on laracasts
 **Thoughts:** good
+
+### Day 42 - 71: 29.12.2024
+
+**Today's Progress**: finished basic php on laracasts and started course by Lavrik
+**Thoughts:** good
